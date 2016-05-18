@@ -1,0 +1,2 @@
+# Student-Affairs-Council-Web-Application-
+It is a web application that can be used for resolve the problem of students in the college campus. The student can make complains of any issues or problem related to academic or hostel can be made. The council will help the student in resolving the problem any taking their demands to the management. All the important notification aur functions of the colleges can be published in the website. 
